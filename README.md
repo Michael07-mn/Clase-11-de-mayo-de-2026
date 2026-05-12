@@ -24,3 +24,4 @@ Un árbol binario es una estructura jerárquica donde cada nodo tiene como máxi
 | _buscar_recursivo(nodo, valor) | Recursivo: recorre el árbol comparando valores. |
 | inOrden() | Recorrido en orden (izquierdo → raíz → derecho). Devuelve una lista con los valores ordenados. |
 | _inOrden_recursivo(nodo, resultado) | Recursivo: acumula los valores del recorrido inorden. |
+
